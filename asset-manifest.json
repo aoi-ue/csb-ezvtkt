@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://yuhanyuhan.github.io/csb-ezvtkt/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://yuhanyuhan.github.io/csb-ezvtkt/static/js/main.376a4ded.chunk.js",
+    "main.js.map": "https://yuhanyuhan.github.io/csb-ezvtkt/static/js/main.376a4ded.chunk.js.map",
+    "runtime-main.js": "https://yuhanyuhan.github.io/csb-ezvtkt/static/js/runtime-main.3c25f3d8.js",
+    "runtime-main.js.map": "https://yuhanyuhan.github.io/csb-ezvtkt/static/js/runtime-main.3c25f3d8.js.map",
+    "static/js/2.f483a284.chunk.js": "https://yuhanyuhan.github.io/csb-ezvtkt/static/js/2.f483a284.chunk.js",
+    "static/js/2.f483a284.chunk.js.map": "https://yuhanyuhan.github.io/csb-ezvtkt/static/js/2.f483a284.chunk.js.map",
+    "index.html": "https://yuhanyuhan.github.io/csb-ezvtkt/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://yuhanyuhan.github.io/csb-ezvtkt/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.f483a284.chunk.js.LICENSE.txt": "https://yuhanyuhan.github.io/csb-ezvtkt/static/js/2.f483a284.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3c25f3d8.js",
+    "static/js/2.f483a284.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.376a4ded.chunk.js"
+  ]
+}

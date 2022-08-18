@@ -1,0 +1,2 @@
+(this["webpackJsonpspotify-mock-ui"]=this["webpackJsonpspotify-mock-ui"]||[]).push([[0],{12:function(e,t,c){},14:function(e,t,c){"use strict";c.r(t);var o=c(1),i=c(3),n=(c(12),c(0));function s(){return Object(n.jsxs)("div",{className:"App",children:[Object(n.jsx)("h1",{children:"Hello CodeSandbox"}),Object(n.jsx)("h2",{children:"Start editing to see some magic happen!"})]})}var r=document.getElementById("root");Object(i.createRoot)(r).render(Object(n.jsx)(o.StrictMode,{children:Object(n.jsx)(s,{})}))}},[[14,1,2]]]);
+//# sourceMappingURL=main.376a4ded.chunk.js.map
